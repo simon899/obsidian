@@ -1,17 +1,17 @@
-﻿[
-    "calendar",
-    "copilot",
-    "dataview",
-    "obsidian-excalidraw-plugin",
-    "obsidian-git",
-    "homepage",
-    "obsidian-kanban",
-    "obsidian-mind-map",
-    "note-refactor-obsidian",
-    "url-into-selection",
-    "periodic-notes",
-    "tag-wrangler",
-    "obsidian-tasks-plugin",
-    "templater-obsidian",
-    "textgenerator"
+[
+  "calendar",
+  "copilot",
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "obsidian-kanban",
+  "homepage",
+  "obsidian-git",
+  "obsidian-mind-map",
+  "note-refactor-obsidian",
+  "url-into-selection",
+  "periodic-notes",
+  "tag-wrangler",
+  "obsidian-tasks-plugin",
+  "templater-obsidian",
+  "obsidian-textgenerator-plugin"
 ]

@@ -15,5 +15,6 @@
   "commitAuthorName": "simon899",
   "commitAuthorEmail": "wangxing891022@gmail.com",
   "currentBranch": "master",
-  "pushOnBackup": true
+  "pushOnBackup": true,
+  "gitPath": "C:\\Program Files\\Git\\cmd\\git.exe"
 }
