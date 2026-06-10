@@ -10,11 +10,11 @@
   "updateSubmodules": false,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": true,
+  "autoBackupAfterFileChange": false,
   "commitMessage": "vault backup: {{date}}",
   "commitAuthorName": "simon899",
   "commitAuthorEmail": "wangxing891022@gmail.com",
   "currentBranch": "master",
   "pushOnBackup": true,
-  "gitPath": ""
+  "gitPath": "git"
 }
