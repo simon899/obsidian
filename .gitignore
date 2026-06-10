@@ -3,8 +3,9 @@
 .obsidian/workspace-mobile.json
 .obsidian/cache
 .obsidian/hotkeys.json
-.obsidian/plugins/obsidian-git/data.json
-.obsidian/plugins/*/data.json
+
+# Plugins with secrets
+.obsidian/plugins/remotely-save/
 
 # Trash
 .trash/
@@ -15,6 +16,3 @@ Thumbs.db
 
 # dotfiles
 .env
-
-# Plugins with secrets
-.obsidian/plugins/remotely-save/

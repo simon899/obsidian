@@ -1,0 +1,19 @@
+﻿{
+  "autoSaveInterval": 5,
+  "autoPullInterval": 5,
+  "autoPullOnBoot": true,
+  "disablePush": false,
+  "pullBeforePush": true,
+  "disablePopups": false,
+  "listChangedFilesInMessageBody": false,
+  "showStatusBar": true,
+  "updateSubmodules": false,
+  "syncMethod": "merge",
+  "customMessageOnAutoBackup": false,
+  "autoBackupAfterFileChange": true,
+  "commitMessage": "vault backup: {{date}}",
+  "commitAuthorName": "simon899",
+  "commitAuthorEmail": "wangxing891022@gmail.com",
+  "currentBranch": "master",
+  "pushOnBackup": true
+}
