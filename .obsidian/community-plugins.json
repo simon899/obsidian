@@ -1,18 +1,16 @@
-﻿[
-    "dataview",
-    "templater-obsidian",
-    "obsidian-excalidraw-plugin",
-    "obsidian-tasks-plugin",
-    "calendar",
-    "periodic-notes",
-    "obsidian-kanban",
-    "obsidian-mind-map",
-    "copilot",
-    "obsidian-markmind",
-    "obsidian-git",
-    "quickadd",
-    "homepage",
-    "note-refactor-obsidian",
-    "url-into-selection",
-    "tag-wrangler"
+[
+  "calendar",
+  "copilot",
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git",
+  "homepage",
+  "obsidian-kanban",
+  "obsidian-mind-map",
+  "note-refactor-obsidian",
+  "url-into-selection",
+  "periodic-notes",
+  "tag-wrangler",
+  "obsidian-tasks-plugin",
+  "templater-obsidian"
 ]
