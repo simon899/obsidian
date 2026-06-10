@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"4c440fcf9926f0be","type":"text","text":"精矿","x":-100,"y":-300,"width":125,"height":60},
+		{"id":"976ea0fae4524ffb","type":"text","text":"精矿氰化","x":160,"y":-384,"width":160,"height":60},
+		{"id":"d4db02bdd2c0f4c7","type":"text","text":"精选，提高品位","x":160,"y":-300,"width":160,"height":60},
+		{"id":"fd507bdaf10dfb89","type":"text","text":"是否再磨","x":460,"y":-400,"width":160,"height":60},
+		{"id":"2f0412e842af0c94","type":"text","text":"尾矿浸出","x":460,"y":-300,"width":160,"height":60},
+		{"id":"3fafd486d7024ce5","type":"text","text":"是否需要加CaO","x":460,"y":-505,"width":160,"height":60},
+		{"id":"d410b6c63e68bdae","type":"text","text":"原矿","x":-100,"y":-100,"width":125,"height":60},
+		{"id":"2a2b61ce10b58290","type":"text","text":"2692莫桑比克金矿\n","x":-440,"y":-200,"width":180,"height":60}
+	],
+	"edges":[
+		{"id":"62d8306b4b877744","fromNode":"2a2b61ce10b58290","fromSide":"right","toNode":"4c440fcf9926f0be","toSide":"left"},
+		{"id":"0f786ca68be3f2fd","fromNode":"2a2b61ce10b58290","fromSide":"right","toNode":"d410b6c63e68bdae","toSide":"left"},
+		{"id":"9c718f732dcbc5ab","fromNode":"4c440fcf9926f0be","fromSide":"right","toNode":"976ea0fae4524ffb","toSide":"left"},
+		{"id":"65ee5a3ee8a084e2","fromNode":"4c440fcf9926f0be","fromSide":"right","toNode":"d4db02bdd2c0f4c7","toSide":"left"},
+		{"id":"acff01d174089df1","fromNode":"d4db02bdd2c0f4c7","fromSide":"right","toNode":"3fafd486d7024ce5","toSide":"left"},
+		{"id":"ee158832eb9af820","fromNode":"d4db02bdd2c0f4c7","fromSide":"right","toNode":"fd507bdaf10dfb89","toSide":"left"},
+		{"id":"b912842f83fe41c5","fromNode":"d4db02bdd2c0f4c7","fromSide":"right","toNode":"2f0412e842af0c94","toSide":"left"}
+	]
+}
