@@ -1,1 +1,13 @@
-{"version": 2, "defaultNote": "莫桑比克金矿", "alwaysPreview": false}
+{
+  "version": 4,
+  "homepages": {
+    "Main Homepage": {
+      "version": 2,
+      "alwaysPreview": false,
+      "value": "莫桑比克金矿",
+      "kind": "File",
+      "commands": []
+    }
+  },
+  "separateMobile": false
+}
