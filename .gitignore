@@ -16,3 +16,6 @@ Thumbs.db
 
 # dotfiles
 .env
+
+# API Keys
+.obsidian/plugins/copilot/data.json
