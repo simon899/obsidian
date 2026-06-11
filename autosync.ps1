@@ -1,5 +1,11 @@
-﻿$env:Path = "C:\Program Files\Git\cmd;$env:Path"
-cd "C:\obsidian-vault"
-git -c http.timeout=15 add -A 2>$null
-git -c http.timeout=15 commit -m "auto" 2>$null
-git -c http.timeout=15 push 2>$null
+﻿$maxSec = 30
+$job = Start-Job {
+    $env:Path = "C:\Program Files\Git\cmd;$env:Path"
+    cd "C:\obsidian-vault"
+    git add -A 2>$null
+    git commit -m "auto" 2>$null
+    git push 2>$null
+}
+Wait-Job $job -Timeout $maxSec | Out-Null
+Stop-Job $job -ErrorAction SilentlyContinue
+Remove-Job $job -Force -ErrorAction SilentlyContinue
